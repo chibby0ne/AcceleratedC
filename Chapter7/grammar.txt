@@ -1,0 +1,18 @@
+<noun> cat
+<noun> dog
+<noun> table
+<noun> parrot
+<noun-phrase> <noun>
+<noun-phrase> <adjective> <noun-phrase>
+<adjective> large
+<adjective> brown
+<adjective> absurd
+<adjective> blue
+<verb> jumps
+<verb> sits
+<verb> smokes
+<location> on the stairs
+<location> under the sky
+<location> wherever it wants
+<location> on the street
+<sentence> the <noun-phrase> <verb> <location>
