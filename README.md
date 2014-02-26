@@ -1,21 +1,8 @@
-# My humble attemps to solve the exercises of Andrew Koening's Accelerated C++ exercises
-
-1. Chapter1
-2. Chapter2
-3. Chapter3
-
-``` C++
-cout << s.size() << endl
-```
+### My humble attemps to solve the exercises of Andrew Koening's Accelerated C++ exercises
 
 ## TODO:
-* Add Cmake capabilities
-* Improve comments
-* Add license to each file
+- [] delete executable files from commits 
+- [] add cmake capabilities 
+- [] add license to each source file
 
-| shortcuts | meaning |
-| ----------------- | -----------------  |
-| cout      |  std::cout      |
-| endl      |  std:: endl     |
-
-[Google the rest!](www.google.com)
+[Google the rest!](http://www.google.com)
